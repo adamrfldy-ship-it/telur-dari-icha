@@ -83,7 +83,9 @@
   <a href="#kontak">Kontak</a>
 </nav>
 
-<section id="tentang">
+<section id="tentang"><img src="kandang.jpg" alt="Peternakan Ayam Petelur"
+     style="width:100%; max-width:600px; border-radius:10px; margin:20px 0;">
+  
   <h2>Tentang Kami</h2>
   <p>
     <strong>Telur Dari Icha</strong> adalah peternakan ayam petelur yang berlokasi di Kota Bantaeng.
