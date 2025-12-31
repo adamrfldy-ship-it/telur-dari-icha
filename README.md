@@ -96,6 +96,33 @@
     yang baik untuk pertumbuhan, energi, dan pemenuhan gizi keluarga.
   </p>
 </section>
+<section id="testimoni">
+  <h2>Testimoni Pelanggan</h2>
+
+  <div class="produk">
+    <p>
+      “Telurnya selalu segar dan bersih. Pelayanan cepat dan ramah.
+      Sangat cocok untuk kebutuhan warung saya.”
+    </p>
+    <strong>— Ibu Rina, Warung Sembako</strong>
+  </div>
+
+  <div class="produk">
+    <p>
+      “Sudah langganan beli telur grosir di sini.
+      Kualitas konsisten dan harga bersahabat.”
+    </p>
+    <strong>— Pak Andi, UMKM Kue</strong>
+  </div>
+
+  <div class="produk">
+    <p>
+      “Telur besar, kuningnya bagus, anak-anak suka.
+      InsyaAllah terus beli di sini.”
+    </p>
+    <strong>— Ibu Sari, Ibu Rumah Tangga</strong>
+  </div>
+</section>
 
 <section id="produk">
   <h2>Produk Kami</h2>
