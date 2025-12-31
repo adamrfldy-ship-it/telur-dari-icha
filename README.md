@@ -140,7 +140,15 @@
   </div>
 </section>
 
-<section id="kontak">
+<section id="kontak"><iframe 
+  src="https://maps.app.goo.gl/fxdrYFEs6dLZazoT8"
+  width="100%" 
+  height="300" 
+  style="border:0; border-radius:10px; margin-bottom:20px;" 
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
+
   <h2>Hubungi Kami</h2>
   <p>📍 Kota Bantaeng</p>
   <p>📞 WhatsApp: +62 895-3286-99002</p>
